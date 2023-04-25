@@ -1,0 +1,2 @@
+class NoPrice(Exception):
+    pass
